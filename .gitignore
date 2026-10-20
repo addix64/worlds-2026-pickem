@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/.github/
+!/.github/workflows/
+!/.github/workflows/pages.yml
+!/outputs/
+!/outputs/index.html
+!/outputs/supabase-config.js
